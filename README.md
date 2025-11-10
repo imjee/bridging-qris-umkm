@@ -13,7 +13,7 @@ Terintegrasi dengan pembuatan **QRIS DANA Dinamis** secara otomatis berdasarkan 
 > **Catatan untuk Pemilik Repo:**
 > Ganti `demo.gif` di bawah ini dengan screenshot atau rekaman layar (GIF) dari alur bot Anda yang sudah berjalan. Ini akan sangat membantu pengguna lain memahami cara kerja bot Anda.
 
-![Demo Bot Beraksi](demo.gif)
+![Demo Bot Beraksi](app.png)
 
 ## 🚀 Fitur Utama
 
