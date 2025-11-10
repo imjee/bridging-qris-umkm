@@ -67,7 +67,7 @@ Buka `qris.js` untuk memasukkan data DANA Bisnis Anda:
 3.  **Hapus 8 karakter terakhir** (misal: `6304XXXX`).
 4.  Tempel (paste) string yang sudah dipotong itu ke dalam `const baseQrisString = "..."` di file `qris.js`.
 
-> **PENTING:** Jika Anda tidak mengganti `baseQrisString`, bot akan GAGAL membuat QRIS atau membuat QRIS atas nama toko lain (IJM Speed Shop).
+> **PENTING:** Jika Anda tidak mengganti `baseQrisString`, bot akan GAGAL membuat QRIS.
 
 ## ▶️ Menjalankan Bot
 
