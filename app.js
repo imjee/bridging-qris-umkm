@@ -9,7 +9,7 @@ const { generateDynamicQrisManual } = require('./qris.js'); // Import QRIS
 console.log("Memulai Bot Rumah Makan v9.3 (Konfirmasi Admin)...");
 
 // --- KONFIGURASI UTAMA ---
-const ADMIN_PHONE = "6287776696070"; // GANTI DENGAN NOMOR ADMIN/DAPUR ANDA
+const ADMIN_PHONE = "paste nomor admin disini"; // GANTI DENGAN NOMOR ADMIN/DAPUR ANDA
 const ONGKIR_TETAP = 10000; // Ongkir tetap
 
 // --- KONFIGURASI MENU MAKANAN ---
