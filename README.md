@@ -8,10 +8,7 @@ Bot WhatsApp otomatis untuk mengelola pesanan rumah makan. Bot ini dirancang unt
 
 Terintegrasi dengan pembuatan **QRIS DANA Dinamis** secara otomatis berdasarkan perhitungan keranjang belanja.
 
-## 📸 Demo
-
-> **Catatan untuk Pemilik Repo:**
-> Ganti `demo.gif` di bawah ini dengan screenshot atau rekaman layar (GIF) dari alur bot Anda yang sudah berjalan. Ini akan sangat membantu pengguna lain memahami cara kerja bot Anda.
+## 📸 SS
 
 ![Demo Bot Beraksi](app.png)
 
